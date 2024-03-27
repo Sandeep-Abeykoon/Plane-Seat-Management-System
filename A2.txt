@@ -1,0 +1,8 @@
+Ticket information:
+Row: A
+Seat: 2
+Price: 200.0
+Person information:
+Name: a
+Surname: b
+Email: ad@gmail.com
